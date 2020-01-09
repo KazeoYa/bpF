@@ -1,0 +1,46 @@
+{
+	"images": {
+		"bomb": {
+	   		"src": "http://i.imgur.com/ojFJd7J.png"
+		},
+		"arrow": {
+			"src": "http://i.imgur.com/pVp7pEY.png"
+		},
+		"heart": {
+			"src": "http://i.imgur.com/tUTKbzn.png"
+		},
+		"heartEmpty": {
+			"src": "http://i.imgur.com/zBSHXOD.png"
+		},
+		"letter": {
+			"src": "http://i.imgur.com/ySfXDoP.png"
+		},
+		"sparkle": {
+			"src": "http://puu.sh/gqB3X/d4eb236454.png"
+		},
+		"avatarPlaceHolder": {
+			"src": "https://imgur.com/gQo4BWw"
+		}
+	},
+	"css": {
+		"text": "#JoinGameButton{text-indent:-999px;line-height:0;visibility:hidden;padding:0 0}#JoinGameButton:after{content:';o;'; text-indent:0;display:block;line-height:initial;visibility:visible;font-size:32pt;color:white;text-shadow:0 0 24px white;padding:0.5em 1em}#App{background:url(https://imgur.com/vol91Tu) center}#AppsBar,#Sidebar{background:#0D0D0D}#App>header{box-shadow:0 0 2em rgba(128,89,155,.6);background:linear-gradient(to bottom,rgba(13,13,13,.65) 60%,rgba(240,240,240,.1) 100%)}"
+	},
+	"textStyles": {	
+		"highlightedText": {
+			"color": "#FFC12F",
+			"shadow": true
+		},
+		"wordText": {
+			"color": "#E0E0E0",
+			"shadow": true
+		},
+		"statusText": {
+			"color": "#E0E0E0"	
+		},
+		"bonusLetterText": {
+			"color": "#000000"
+		},
+		"promptText": {	
+}
+	},"particles": {"emitters":[], "images":[]}
+}
